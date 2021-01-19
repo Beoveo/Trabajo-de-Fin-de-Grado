@@ -1,0 +1,20 @@
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_Cu.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_Cu.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_Paste.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_Paste.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_SilkS.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_SilkS.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_Mask.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_Mask.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-Edge_Cuts.gbr" created.
+Crear archivo de trabajo Gerber "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-job.gbrjob"
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_Cu.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_Cu.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_Paste.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_Paste.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_SilkS.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_SilkS.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-F_Mask.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-B_Mask.gbr" created.
+Plot file "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-Edge_Cuts.gbr" created.
+Crear archivo de trabajo Gerber "G:\PCB_intermedia\PCB_intermedia\PCB_intermedia-job.gbrjob"

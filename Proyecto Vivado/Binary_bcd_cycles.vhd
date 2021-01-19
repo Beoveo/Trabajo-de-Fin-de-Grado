@@ -95,4 +95,4 @@ begin
 
     bcd <= bcds_out_reg;
 
-end behaviour;
+end behaviour; 
